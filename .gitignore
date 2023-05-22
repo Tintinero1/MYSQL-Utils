@@ -1,3 +1,4 @@
 local-tests/
 __pycache__/
 DatabasesHelpers/
+venv/
